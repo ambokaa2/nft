@@ -3428,8 +3428,8 @@
   }
   
   .float {
-    -webkit-animation: float 2.5s linear infinite;
-            animation: float 2.5s linear infinite;
+    -webkit-animation: float 2.8s linear infinite;
+            animation: float 2.8s linear infinite;
   }
   
   @-webkit-keyframes float {
@@ -3816,13 +3816,6 @@
     color: white;
   }
   
-  .surati{
-      width: 330px;
-      margin-left: -10px;
-      height: 350px;
-      border-radius: 7px;
-  }
-
   .momxmarebeli{
     border-radius: 50%;
   }
