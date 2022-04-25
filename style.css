@@ -16,6 +16,9 @@
       cursor: pointer;
   }
   
+  .bg-white20{
+    background: rgba(63, 63, 63, 0.842);
+  }
   .bg-white10 {
     background: rgba(255, 255, 255, 0.1);
   }
@@ -3631,7 +3634,7 @@
       top: 99%;
       right: -100%;
       width: 70%;
-      background: rgba(255, 255, 255, 0.1);
+      background: rgba(22, 22, 22, 0.838);
       height: 100vh;
       z-index: 99;
       display: -webkit-box;
@@ -3816,6 +3819,7 @@
     color: white;
   }
   
+
   .momxmarebeli{
     border-radius: 50%;
   }
